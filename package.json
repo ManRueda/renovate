@@ -145,7 +145,7 @@
     ]
   },
   "publishConfig": {
-    "tag": "latest"
+    "tag": "9x"
   },
   "release": {
     "branch": "9x",
